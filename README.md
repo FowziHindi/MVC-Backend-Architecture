@@ -1,4 +1,4 @@
-# PHP-MVC-DB-Implementation
+# MVC-Backend-Architecture
 
 A backend-focused web application built to demonstrate structured relational database management, Master-Detail data patterns, and strict MVC (Model-View-Controller) architecture.
 
