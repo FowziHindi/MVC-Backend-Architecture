@@ -51,6 +51,7 @@
                         <li class="nav-item"><a class="nav-link <?php if($module == 'product') { echo 'active'; } ?>" href="index.php?module=products&action=list">Products</a></li>
                         <li class="nav-item"><a class="nav-link <?php if($module == 'categories') { echo 'active'; } ?>" href="index.php?module=categories&action=list">Categories</a></li>
                         <li class="nav-item"><a class="nav-link <?php if($module == 'reviews') { echo 'active'; } ?>" href="index.php?module=reviews&action=list">Reviews</a></li>
+                        <li class="nav-item"><a class="nav-link <?php if($module == 'report') { echo 'active'; } ?>" href="index.php?module=report&action=list">Sales Report</a></li>
                     </ul>
                 </div>
             </div>
